@@ -2,6 +2,6 @@ customerName = "bob"
 
 function upperCaseCustomerName(customerName) {
   customerName = "BOB"
-customerName;
+return customerName;
 }
 // console.log('Return value of upperCaseCustomerName(customerName)')
