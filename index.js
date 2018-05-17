@@ -1,6 +1,6 @@
-var customerName = "bob"
+customerName = "bob"
 
-upperCaseCustomerName(customerName) {
+function upperCaseCustomerName(customerName) {
   customerName = "BOB"
 customerName;
 }
